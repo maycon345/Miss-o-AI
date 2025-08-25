@@ -1,30 +1,34 @@
-const caixaPrincipal = document.querySelector('.caixa-principal');
+const caixaPrincipal = document.querySelector('.caixa-principa);
 
 const caixaPerguntas = document.querySelector('.caixa-perguntas');
 
-const caixaAlteenativas = document.querySelector('.caixa-alternativa');
+const caixaAlternativas = document.querySelector('.caixa-alternativas');
 
 const caixaResultado = document.querySelector('.caixa-resultado');
 
-const caixaResultado = document.querySelector('.caixa-Resultado');
+const textoResultado = document.querySelector('.texto-Resultado');
 
 const lista = [];
 
-const perguntas [
-    {
-        enunciado: "Pergunta 1",
-        alteenativas: [
-"Alternativas 1"
-"Alteenativas 2"
-
-    ]
-} //fecha objeto pergunta
-] // fecha lista
-
-let atual=0;
-let
-
-function  respostaSelecionada(opcaoselecionada) {
-    const afimacoes = opcaoselecionada.afi
-    
+const perguntas = [
+{
+enunciado: "Pergunta 1",
+alternativas: ["Alternativa 1","Alternativa 2"]
+},
+{
+enunciado: "Pergunta 2",
+alternativas: ["Alternativa 1","Alternativa 2" ]
+},
+{
+enunciado: "Pergunta 3",
+alternativas: ["Alternativa 1","Alternativa 2" ]
+},
+{
+enunciado: "Pergunta 4",
+alternativas: ["Alternativa 1","Alternativa 2"]
+},
+{
+enunciado: "Pergunta 5",
+alternativas: ["Alternativa 1","Alternativa 2"]
 }
+];
