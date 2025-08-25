@@ -20,3 +20,11 @@ const perguntas [
     ]
 } //fecha objeto pergunta
 ] // fecha lista
+
+let atual=0;
+let
+
+function  respostaSelecionada(opcaoselecionada) {
+    const afimacoes = opcaoselecionada.afi
+    
+}
